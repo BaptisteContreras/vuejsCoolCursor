@@ -1,6 +1,6 @@
-# cv2
+# CoolCursor
 
-> cv
+
 
 ## Build Setup
 
